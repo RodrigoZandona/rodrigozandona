@@ -38,6 +38,7 @@ Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, c
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-zandona-3a723811a)
 
-📫 Contato: [rodrigo.zandona97@gmail.com](mailto:rodrigo.zandona97@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:rodrigo.zandona97@gmail.com)
+
 
 
