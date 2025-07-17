@@ -18,7 +18,7 @@ Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, c
 
 | 🔧 Backend        | 🛢 Banco de Dados  | ☁️ DevOps & Infra     | 🔄 Controle de Versão |
 |------------------|-------------------|------------------------|------------------------|
-| <img src="https://img.icons8.com/color/48/000000/delphi.png" width="40" title="Delphi"/> Delphi | <img src="https://img.icons8.com/color/48/000000/plsql.png" width="40" title="PL/SQL"/> PL/SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> Git |
+| Delphi           | PL/SQL            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> Git |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle"/> Oracle | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/> Nginx | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/> GitHub |
 
 
