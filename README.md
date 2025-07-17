@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rodrigo Zandona
 
-<!--
-**RodrigoZandona/rodrigozandona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, com forte atuação em sistemas voltados para a área da saúde. Atualmente trabalho na **Solus Saúde**, onde desenvolvo soluções modernas, funcionais e com propósito.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+- 👨‍💻 Desenvolvedor na **Solus Saúde**
+- 🎓 Graduando em **Engenharia da Computação** pela **Unopar**
+- 📍 Localizado no Brasil
+- 📫 Contato: **rodrigo@email.com**
+- 💬 Estudando e praticando: **JavaScript**, **Node.js** e **React** 
+
+---
+
+## ⚙️ Tecnologias & Ferramentas
+
+| Backend         | Frontend     | Banco de Dados | Outros            |
+|----------------|--------------|----------------|-------------------|
+| Delphi         | React        | Oracle         | Docker            |
+| PL/SQL         | HTML/CSS     | Firebird       | Postman, Insomnia |
+| Java           | JavaScript   | SQL            | Git & GitHub      |
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigozandona&show_icons=true&theme=default)
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-zandona-3a723811a)
+
