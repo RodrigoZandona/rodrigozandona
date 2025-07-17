@@ -24,12 +24,6 @@ Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, c
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigozandona&show_icons=true&theme=default)
-
----
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-zandona-3a723811a)
