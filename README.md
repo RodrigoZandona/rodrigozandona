@@ -9,22 +9,35 @@ Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, c
 - 👨‍💻 Desenvolvedor na **Solus Saúde**
 - 🎓 Graduando em **Engenharia da Computação** pela **Unopar**
 - 📍 Londrina, PR , Brasil
-- 📫 Contato: **rodrigo.zandona97@gmail.com**
 - 💬 Estudando e praticando: **JavaScript**, **Node.js** e **React** 
 
 ---
 
 ## ⚙️ Tecnologias & Ferramentas
 
-| Backend         | Frontend     | Banco de Dados | Outros            |
-|----------------|--------------|----------------|-------------------|
-| Delphi         | React        | Oracle         | Docker            |
-| PL/SQL         | HTML/CSS     | Firebird       | Postman, Insomnia |
-| Java           | JavaScript   | SQL            | Git & GitHub      |
+### 🔧 Backend Development
+- Delphi
+- Java
+
+### 🛢 Banco de Dados
+- PL/SQL  
+- Oracle  
+- MySQL  
+
+### ☁️ DevOps e Infraestrutura
+- Docker  
+- Nginx  
+
+### 🔄 Controle de Versão
+- Git  
+- GitHub  
 
 ---
 
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-zandona-3a723811a)
+
+📫 Contato: [rodrigo.zandona97@gmail.com](mailto:rodrigo.zandona97@gmail.com)
+
 
