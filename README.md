@@ -9,7 +9,7 @@ Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, c
 - 👨‍💻 Desenvolvedor na **Solus Saúde**
 - 🎓 Graduando em **Engenharia da Computação** pela **Unopar**
 - 📍 Localizado no Brasil
-- 📫 Contato: **rodrigo@email.com**
+- 📫 Contato: **rodrigo.zandona97@gmail.com**
 - 💬 Estudando e praticando: **JavaScript**, **Node.js** e **React** 
 
 ---
