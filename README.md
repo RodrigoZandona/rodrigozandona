@@ -15,22 +15,29 @@ Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, c
 
 ## ⚙️ Tecnologias & Ferramentas
 
-### 🔧 Backend Development
-- Delphi
-- Java
+### 🔧 Backend Development  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
-### 🛢 Banco de Dados
-- PL/SQL  
-- Oracle  
-- MySQL  
+---
 
-### ☁️ DevOps e Infraestrutura
-- Docker  
-- Nginx  
+### 🛢 Banco de Dados  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/plsql.png" alt="PLSQL" width="40" height="40"/>
 
-### 🔄 Controle de Versão
-- Git  
-- GitHub  
+---
+
+### ☁️ DevOps e Infraestrutura  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+
+---
+
+### 🔄 Controle de Versão  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
 
 ---
 
