@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rodrigo Zandona
+# 👋 Olá, eu sou o Rodrigo Zandoná
 
 Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, com forte atuação em sistemas voltados para a área da saúde. Atualmente trabalho na **Solus Saúde**, onde desenvolvo soluções modernas, funcionais e com propósito.
 
