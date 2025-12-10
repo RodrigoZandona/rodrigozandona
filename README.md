@@ -9,7 +9,6 @@ Sou desenvolvedor com foco em **Delphi**, **PL/SQL** e **integrações REST**, c
 - 👨‍💻 Desenvolvedor na **Solus Saúde**
 - 🎓 Graduando em **Engenharia da Computação** pela **Unopar**
 - 📍 Londrina, PR , Brasil
-- 💬 Estudando e praticando: **JavaScript**, **Node.js** e **React** 
 
 ---
 
